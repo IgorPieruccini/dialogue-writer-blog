@@ -23,3 +23,7 @@ I've started many projects in the course of my professional carrier, and mostly 
 ## Where can I find the project?
 
 [Dialogue Writer Repository](https://github.com/IgorPieruccini/dialogue-writer)
+
+## Important links
+
+[Prototyping](http://localhost:4000/2020/10/13/prototyping/)
