@@ -27,3 +27,4 @@ I've started many projects in the course of my professional carrier, and mostly 
 ## Important links
 
 [Prototyping](http://localhost:4000/2020/10/13/prototyping/)
+[Trello Project](https://trello.com/b/SFGCCv1f/dialogue-writer)
